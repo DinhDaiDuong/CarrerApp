@@ -1,0 +1,7 @@
+export enum EQuestionType {
+  MULTIPLE_CHOICE = 'MULTIPLE_CHOICE',
+  TICK_BOX = 'TICK_BOX',
+  SHORT_ANSWER = 'SHORT_ANSWER',
+  COMBINE = 'COMBINE',
+  //SCHOOL_SCORE = 'SCHOOL_SCORE', // Special Type
+}
